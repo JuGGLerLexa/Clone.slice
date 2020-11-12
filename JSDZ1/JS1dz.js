@@ -96,7 +96,7 @@
 // alert(next);
 // document.write(str2);
 
-
+//
 // 4 - при помощи 3х разных prompt() получить 3 слова которые являются вашими ФИО.
 // Для фамилии имени и отчества создать разные переменные.
 // Вывести каждую при помощи console.log , alert, document.write
@@ -115,6 +115,7 @@
 // 5 - Взять переменные из задания 4 и сконкатенировать их в одной переменной person.
 
 
+// let person = (lastName, name, surName);   // and
 // let person = (`${lastName} ${name} ${surName}`);
 //
 //
@@ -163,13 +164,13 @@
 // при помощи parseFloat привести их к соответсвующему типу.
 // Сложить их между собой записав результат в переменную result и вывести в консоль браузера
 
-
-
-
-
-
-
-
+//
+// let prom1 = prompt(1.2);
+// let prom2 = prompt(2.3);
+// let prom3 = prompt(3.4);
+// let ather = (prom1 + prom2 + prom3);
+// parseFloat = ather;
+// console.log(ather)
 
 // 10 - при помощи prompt()  получить 3 числа с плавающей точекой.
 // Округлить их при помощи Math.round Сложить их между собой
@@ -434,3 +435,6 @@
 //     case 4:
 //         console.log('summer');
 // }
+//
+//
+//
