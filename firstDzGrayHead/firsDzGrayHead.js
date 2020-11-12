@@ -91,7 +91,7 @@ console.log(k);
 // alert и console.log
 //
 
-let str = 'Hello world';
+// let str = 'Hello world';
 // document.write(str);
 // alert(str);
 // console.log(str);
@@ -101,11 +101,11 @@ let str = 'Hello world';
 // хобби (каждой на новой строки спомощью \n).
 //
 
-const lastName = 'Klupach';
-const name = 'Oleksii';
-const surName = 'Anryiovch';
-const age = 20;
-const hobby = '\n programing, \n sport, \n read book';
+// const lastName = 'Klupach';
+// const name = 'Oleksii';
+// const surName = 'Anryiovch';
+// const age = 20;
+// const hobby = '\n programing, \n sport, \n read book';
 // alert(lastName + name + surName + age + hobby);
 
 
@@ -115,10 +115,10 @@ const hobby = '\n programing, \n sport, \n read book';
 //     Вывести в документ содержимое переменной concatenation спомощью document.write
 //
 
-let str1 = `Кто`;
-let str2 = `ты`;
-let str3 = `такой?`;
-let  concatenation = (str1 + str2 + str3);
+// let str1 = `Кто`;
+// let str2 = `ты`;
+// let str3 = `такой?`;
+// let  concatenation = (str1 + str2 + str3);
  // document.write(concatenation)
 
 // 10. Какие значения выведет в окно браузера следующий фрагмент кода?  и почему?
