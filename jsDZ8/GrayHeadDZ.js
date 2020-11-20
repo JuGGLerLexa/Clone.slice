@@ -50,14 +50,6 @@
 //
 
 
-// let btnAge = document.getElementById('btnAge')
-
-// btnAge.onclick = function() {
-//   let inputAge = document.getElementById('inputAge')
-//      const value = +inputAge.value;
-
-//    value < 18 ? console.log('Go away') : console.log('Wellcome')
-// }
 
 
 
